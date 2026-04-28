@@ -41,53 +41,49 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAwmv3tXvd0WitOjJkYIxe2V0YDWi15tkE',
-    appId: '1:1089681700120:web:9613192fbe1084ea589a6d',
-    messagingSenderId: '1089681700120',
-    projectId: 'firts-app-f7952',
-    authDomain: 'firts-app-f7952.firebaseapp.com',
-    databaseURL: 'https://firts-app-f7952-default-rtdb.firebaseio.com',
-    storageBucket: 'firts-app-f7952.firebasestorage.app',
-    measurementId: 'G-S233LW7VB8',
+    apiKey: 'AIzaSyA57TcwtihPg0ls705Y33jgqnjLa9A1puA',
+    appId: '1:603510617905:web:46e649ffd616bc54392210',
+    messagingSenderId: '603510617905',
+    projectId: 'fasum-1c2e7',
+    authDomain: 'fasum-1c2e7.firebaseapp.com',
+    storageBucket: 'fasum-1c2e7.firebasestorage.app',
+    measurementId: 'G-VEGCZ4NFDV',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD1i5gNx4JfbO0bZiZqCDDn3XZPN3nWyb0',
-    appId: '1:1089681700120:android:0b696623b08d1bdf589a6d',
-    messagingSenderId: '1089681700120',
-    projectId: 'firts-app-f7952',
-    databaseURL: 'https://firts-app-f7952-default-rtdb.firebaseio.com',
-    storageBucket: 'firts-app-f7952.firebasestorage.app',
+    apiKey: 'AIzaSyBlEbToeeybZqlDxCIhxMs5h1pm1Nl8Rb4',
+    appId: '1:603510617905:android:6eaccebf188a5228392210',
+    messagingSenderId: '603510617905',
+    projectId: 'fasum-1c2e7',
+    storageBucket: 'fasum-1c2e7.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCDzeJqv_q2fA9VeEtobH1UwLAYiB_SDEs',
-    appId: '1:1089681700120:ios:6b14391aca4e8683589a6d',
-    messagingSenderId: '1089681700120',
-    projectId: 'firts-app-f7952',
-    databaseURL: 'https://firts-app-f7952-default-rtdb.firebaseio.com',
-    storageBucket: 'firts-app-f7952.firebasestorage.app',
+    apiKey: 'AIzaSyAcVMR96RbvDGC73XWrZy1Ja6gepLiHDFw',
+    appId: '1:603510617905:ios:e0879de7b5dae3f6392210',
+    messagingSenderId: '603510617905',
+    projectId: 'fasum-1c2e7',
+    storageBucket: 'fasum-1c2e7.firebasestorage.app',
     iosBundleId: 'com.example.fasumPab',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCDzeJqv_q2fA9VeEtobH1UwLAYiB_SDEs',
-    appId: '1:1089681700120:ios:6b14391aca4e8683589a6d',
-    messagingSenderId: '1089681700120',
-    projectId: 'firts-app-f7952',
-    databaseURL: 'https://firts-app-f7952-default-rtdb.firebaseio.com',
-    storageBucket: 'firts-app-f7952.firebasestorage.app',
+    apiKey: 'AIzaSyAcVMR96RbvDGC73XWrZy1Ja6gepLiHDFw',
+    appId: '1:603510617905:ios:e0879de7b5dae3f6392210',
+    messagingSenderId: '603510617905',
+    projectId: 'fasum-1c2e7',
+    storageBucket: 'fasum-1c2e7.firebasestorage.app',
     iosBundleId: 'com.example.fasumPab',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAwmv3tXvd0WitOjJkYIxe2V0YDWi15tkE',
-    appId: '1:1089681700120:web:a79feeb5c4e6d8fd589a6d',
-    messagingSenderId: '1089681700120',
-    projectId: 'firts-app-f7952',
-    authDomain: 'firts-app-f7952.firebaseapp.com',
-    databaseURL: 'https://firts-app-f7952-default-rtdb.firebaseio.com',
-    storageBucket: 'firts-app-f7952.firebasestorage.app',
-    measurementId: 'G-BGCV019FFT',
+    apiKey: 'AIzaSyA57TcwtihPg0ls705Y33jgqnjLa9A1puA',
+    appId: '1:603510617905:web:1b8d2fbf14733f73392210',
+    messagingSenderId: '603510617905',
+    projectId: 'fasum-1c2e7',
+    authDomain: 'fasum-1c2e7.firebaseapp.com',
+    storageBucket: 'fasum-1c2e7.firebasestorage.app',
+    measurementId: 'G-9VDTXN1ZX4',
   );
+
 }
