@@ -20,6 +20,9 @@ dependencies:
   url_launcher: ^6.3.2
   shimmer: ^3.0.0
   google_generative_ai: ^0.4.7
+  firebase_messaging: ^16.2.2
+  flutter_local_notifications: ^21.0.0
+  http: ^1.6.0
 
 dev_dependencies:
   flutter_test:
